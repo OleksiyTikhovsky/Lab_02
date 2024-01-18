@@ -5,6 +5,8 @@
 // Option 22
 
 // зміна 1
+
+// зміна 2
 #include <iostream>
 #include <cmath>
 using namespace std;
