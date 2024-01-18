@@ -3,6 +3,8 @@
 // Laboratory work No. 2.1
 // Linear programs.
 // Option 22
+
+// зміна 1
 #include <iostream>
 #include <cmath>
 using namespace std;
